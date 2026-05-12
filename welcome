@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Letters for Hugo </title>
+</head>
+<body>
+  <h1>Letters for Hugo </h1>
+  <p>Hi Hugo,</p>
+  <p>These are letters I've written for you over the years.</p>
+
+  <h2>2026</h2>
+  <ul>
+    <li><a href="letter1.html">January 2026</a></li>
+  </ul>
+</body>
+</html>
